@@ -16,7 +16,7 @@ const chinaExam: DictionaryResource[] = [
   },
   {
     id: 'specialized',
-    name: 'pecialized',
+    name: 'Specialized',
     description: '专业英语词库',
     category: '中国考试',
     tags: ['大学英语'],
@@ -24,7 +24,7 @@ const chinaExam: DictionaryResource[] = [
     length: 1,
     language: 'en',
     languageCategory: 'en',
-  }
+  },
   {
     id: 'cet6',
     name: 'CET-6',
