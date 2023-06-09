@@ -15,13 +15,15 @@ const chinaExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
-    "id": "specialized",
-    "name": "Specialized",
-    "description": "专业英语词库",
-    "category": "英语学习",
-    "url": "./dicts/zyyy.json",
-    "length": 1,
-    "language": "en",
+    id: 'specialized',
+    name: 'pecialized',
+    description: '专业英语词库',
+    category: '中国考试',
+    tags: ['大学英语'],
+    url: 'dicts/zyyy.json'
+    length: 1,
+    language: 'en',
+    languageCategory: 'en',
   }
   {
     id: 'cet6',
