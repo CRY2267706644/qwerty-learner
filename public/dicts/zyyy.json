@@ -1,11 +1,200 @@
 [
     {
-        "name": "Environmental",
+        "name": "Structural",
         "trans": [
-            "Design",
-            "环境设计"
+            "Engineer 结构工程师"
+        ]
+    },
+    {
+        "name": "Lighting",
+        "trans": [
+            "Designer 灯光设计师"
+        ]
+    },
+    {
+        "name": "Mechanical",
+        "trans": [
+            "Engineer 机械工程师"
+        ]
+    },
+    {
+        "name": "Architect",
+        "trans": [
+            "建筑师"
+        ]
+    },
+    {
+        "name": "Drafting",
+        "trans": [
+            "Technician 绘图技术员"
+        ]
+    },
+    {
+        "name": "Interior",
+        "trans": [
+            "Designer 室内设计师"
+        ]
+    },
+    {
+        "name": "Fire",
+        "trans": [
+            "Protection Consultant 消防顾问"
+        ]
+    },
+    {
+        "name": "Electrical",
+        "trans": [
+            "Engineer 电气工程师"
+        ]
+    },
+    {
+        "name": "inclusive",
+        "trans": [
+            "design包容性设计"
+        ]
+    },
+    {
+        "name": "universal",
+        "trans": [
+            "design通用设计"
+        ]
+    },
+    {
+        "name": "interact",
+        "trans": [
+            "with the public 参与公众互动"
+        ]
+    },
+    {
+        "name": "participatory",
+        "trans": [
+            "planning 参与式规划"
+        ]
+    },
+    {
+        "name": "residential",
+        "trans": [
+            "density居住密度"
+        ]
+    },
+    {
+        "name": "set-back",
+        "trans": [
+            "of structures from the property line用地红线建筑退线"
+        ]
+    },
+    {
+        "name": "land-use",
+        "trans": [
+            "planning 土地利用规划"
+        ]
+    },
+    {
+        "name": "environmental",
+        "trans": [
+            "planning 环境规划"
+        ]
+    },
+    {
+        "name": "transportation",
+        "trans": [
+            "planning 交通规划"
+        ]
+    },
+    {
+        "name": "comprehensive",
+        "trans": [
+            "planning 总体规划"
+        ]
+    },
+    {
+        "name": "regional",
+        "trans": [
+            "planning 区域规划"
+        ]
+    },
+    {
+        "name": "city",
+        "trans": [
+            "planning 城市规划"
+        ]
+    },
+    {
+        "name": "historic",
+        "trans": [
+            "preservation 保护规划"
+        ]
+    },
+    {
+        "name": "neighborhood",
+        "trans": [
+            "planning 小区规划"
+        ]
+    },
+    {
+        "name": "infrastructure",
+        "trans": [
+            "基础设施"
+        ]
+    },
+    {
+        "name": "transportation",
+        "trans": [
+            "hub交通枢纽"
+        ]
+    },
+    {
+        "name": "resilient",
+        "trans": [
+            "有弹性的"
+        ]
+    },
+    {
+        "name": "urban",
+        "trans": [
+            "comprehensive planning 城市总体规划"
+        ]
+    },
+    {
+        "name": "urban",
+        "trans": [
+            "detailed planning 城市详细规划"
+        ]
+    },
+    {
+        "name": "constructive-detailed",
+        "trans": [
+            "plan 修建性详细规划"
+        ]
+    },
+    {
+        "name": "regulatory",
+        "trans": [
+            "detailed planning 控制性详细规划"
+        ]
+    },
+    {
+        "name": "utility",
+        "trans": [
+            "公共设施"
+        ]
+    },
+    {
+        "name": "sidewalk",
+        "trans": [
+            "人行道"
+        ]
+    },
+    {
+        "name": "zoning",
+        "trans": [
+            "分区"
+        ]
+    },
+    {
+        "name": "amenity",
+        "trans": [
+            "便利设施"
         ]
     }
-
-
 ]
